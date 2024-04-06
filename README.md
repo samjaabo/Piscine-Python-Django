@@ -1,9 +1,9 @@
 <p align="center">
   <strong>Piscine-Python-Django</strong>
 </p>
-# Chapter I: Piscine
 
-## What is a piscine?
+
+## <p align="center"><strong>What is a piscine?</strong></p>
 
 Much like the selection piscine, the project is split into many small projects (days), and with each day a new notion on the language/paradigm/technology you chose to work on. Validating a piscine requires more than just a day or two of investment. We are looking at:
 
