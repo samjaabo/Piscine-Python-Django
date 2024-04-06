@@ -1,4 +1,6 @@
-# Piscine-Python-Django
+<p align="center">
+  <strong>Piscine-Python-Django</strong>
+</p>
 # Chapter I: Piscine
 
 ## What is a piscine?
